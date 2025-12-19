@@ -12,7 +12,7 @@ import androidx.fragment.app.FragmentActivity;
 public class MainActivity extends FragmentActivity {
 
     CardView cardStream1, cardStream2;
-     ImageView imageView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
