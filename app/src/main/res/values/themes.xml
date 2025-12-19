@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Telered" parent="@style/Theme.Leanback" />
+</resources>
