@@ -3,9 +3,6 @@ package com.telered.tv;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.view.WindowManager;
-import android.widget.ImageView;
-
 import androidx.cardview.widget.CardView;
 import androidx.fragment.app.FragmentActivity;
 
